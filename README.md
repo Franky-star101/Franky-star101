@@ -1,4 +1,5 @@
 - 👋 👀 I’m interested in data analysis and solving complex analytical problems.
+- Focused to use data to impact change.
 - 🌱 I’m currently learning advanced various data analysis techniques and big data technologies.
 - 💞️ I’m looking to collaborate on data-driven projects that create meaningful impact.
 - 📫 How to reach me: githinjifrancis.fg77@gmail.com.
